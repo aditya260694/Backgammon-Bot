@@ -1,6 +1,3 @@
 README
 
-Changes made after first submission.
-
-Invoking function calculating heuristic was missed out (cal_HP) .
-Border conditions of bearing off and bar checkers were refined.
+A bot which when given backgammon board state as input , returns next best move based on an expectimax approach.
